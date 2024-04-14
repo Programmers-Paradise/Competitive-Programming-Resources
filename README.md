@@ -74,11 +74,14 @@ Certainly! Here are the short notes for each resource with the provided links:
 - **[Google Hashcode](https://codingcompetitions.withgoogle.com/hashcode)**: Hash Code is a team programming competition by Google.
 
 ### **Practice Platforms for Mastery**
+
 - **[HackerRank](https://www.hackerrank.com/)**: Platform offering coding challenges and practice problems.
 - **[CodeChef](https://www.codechef.com/)**: Platform hosting contests and providing practice problems.
 - **[SPOJ](https://www.spoj.com/)**: Archive of programming problems for practice and contests.
 - **[USACO Guide](https://usaco.guide/)**: Resource offering curated content and practice problems for USACO.
 - **[CP-Algorithms](https://cp-algorithms.com/)**: Website offering tutorials and problem sets for various topics.
+- **[CSES problemset](https://cses.fi/problemset/)**: Topic-wise comprehensive high-quality problem set for learning algorithmic programming.
+- **[VJudge Group](https://vjudge.net/group/iiithprogclub)**: Public problem sets and contests made by the IIIT-H Programming Club.
 
 ### **Algorithm Visualizations for Understanding**
 - **[Visualgo.net](https://visualgo.net/)**: Interactive platform offering visualizations for various algorithms.
