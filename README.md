@@ -115,8 +115,8 @@ Feel free to navigate to the desired section using the provided links for an eas
    - [Templates](https://github.com/stevenhalim/cpbook-code) for various IDEs
 
 ### **Data Structures and Algorithms Visualizations**
- - [Visualgo.net](https://visualgo.net/)
-   - [Algomation](https://www.algomation.com/)
+- [Visualgo.net](https://visualgo.net/)
+- [Algomation](https://www.algomation.com/)
    
 ### **Gems from the Blogosphere**
 
@@ -143,6 +143,22 @@ Explore the treasure trove of wisdom and insights shared by seasoned programmers
 10. [Insights into Reaching the World Finals](https://drive.google.com/file/d/1HsNe4X8CZZ8FTkNPAA_tJaLcPjajRUwj/view) - Gain valuable insights and strategies from Tanuj Khattar on what it takes to reach the ACM-ICPC World Finals.
 
 And if you're hungry for more, explore the comprehensive compilation of insightful blogs ever published on Codeforces: [A Treasury of Codeforces Blogs](https://codeforces.com/blog/entry/91363).
+
+Absolutely, giving credit where it's due is important. Here's the credits section:
+
+---
+
+## Credits
+
+We extend our heartfelt gratitude to the IIIT-H Programming Club and ANCC IIT Delhi for their invaluable contribution to the competitive programming community. The resources curated in this repository have been enriched by drawing inspiration from their extensive collections. We sincerely thank them for their dedication and efforts in fostering learning and growth among aspiring programmers.
+
+Special thanks to:
+
+- **IIIT-H Programming Club**: For their exceptional dedication to curating high-quality problem sets and contests on platforms like VJudge, enriching the competitive programming ecosystem.
+  
+- **ANCC IIT Delhi**: For their remarkable efforts in compiling and sharing resources that have served as a guiding light for countless aspiring programmers in their journey towards mastery in competitive programming.
+
+Their commitment to nurturing talent and fostering a culture of collaboration and learning is truly commendable, and we are grateful for the opportunity to benefit from their expertise and resources.
 
 
 
