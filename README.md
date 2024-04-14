@@ -25,6 +25,7 @@ Welcome to the ultimate collection of resources for competitive programming enth
    - [Gems from the Blogosphere](#Gems-from-the-Blogosphere)
 
 2. [Contribution](#contribution)
+3. [Credits](#Credits)
 
 Feel free to navigate to the desired section using the provided links for an easy browsing experience!
 
