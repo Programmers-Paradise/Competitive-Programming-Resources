@@ -3,13 +3,6 @@
 
 Welcome to the ultimate collection of resources for competitive programming enthusiasts! Whether you're a novice or a seasoned coder, this repository is designed to serve as your go-to guide to sharpen your skills and conquer competitive programming challenges with confidence.
 
-Certainly! Here's the "Contents" section for the above post:
-
----
-
-Certainly! Here's the "Great Blog Posts" section to add to the Contents:
-
----
 
 # Contents
 
