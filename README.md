@@ -161,3 +161,5 @@ Their commitment to nurturing talent and fostering a culture of collaboration an
 This repository is an open-source initiative! If you have any suggestions or would like
 
 to add more resources, feel free to submit a pull request.
+
+![Programmers' Paradise](https://github.com/Programmers-Paradise/Member-Selection-Test/blob/main/6613a282ad4b8.jpg)
