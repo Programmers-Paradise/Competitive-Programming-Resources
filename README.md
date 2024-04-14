@@ -52,7 +52,7 @@ Feel free to navigate to the desired section using the provided links for an eas
 ### **Insightful Video Channels**
    - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
    - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
-   - [Codeforces](https://www.youtube.com/user/programmerofmath)
+   - ICPC Streams
    - [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g)
    - [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w)
 
