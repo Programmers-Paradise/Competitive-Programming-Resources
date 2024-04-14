@@ -91,9 +91,9 @@ Feel free to navigate to the desired section using the provided links for an eas
 
 ### **Insightful Blogs for Learning**
    - [TopCoder Tutorials](https://www.topcoder.com/thrive/tutorials/)
-   - [Codeforces Editorial](https://codeforces.com/blog/entry/91363)
    - [GeeksforGeeks](https://www.geeksforgeeks.org/)
    - [Codeforces Blog Collection](https://codeforces.com/blog/entry/91363)
+   - Codeforces Editorial
 
 ### **GitHub Repositories for Collaborative Learning**
    
