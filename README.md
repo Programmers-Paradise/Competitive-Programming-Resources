@@ -142,9 +142,6 @@ Explore the treasure trove of wisdom and insights shared by seasoned programmers
 
 And if you're hungry for more, explore the comprehensive compilation of insightful blogs ever published on Codeforces: [A Treasury of Codeforces Blogs](https://codeforces.com/blog/entry/91363).
 
-Absolutely, giving credit where it's due is important. Here's the credits section:
-
----
 
 ## Credits
 
@@ -159,9 +156,8 @@ Special thanks to:
 Their commitment to nurturing talent and fostering a culture of collaboration and learning is truly commendable, and we are grateful for the opportunity to benefit from their expertise and resources.
 
 
-
 ## Contribution
 
 This repository is an open-source initiative! If you have any suggestions or would like
 
- to add more resources, feel free to submit a pull request.
+to add more resources, feel free to submit a pull request.
