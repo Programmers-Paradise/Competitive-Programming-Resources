@@ -143,6 +143,7 @@ Explore the treasure trove of wisdom and insights shared by seasoned programmers
 9. [Unlocking CSES Problemset Editorials](https://codeforces.com/blog/entry/83343) - Access insightful editorials for problems from the CSES problemset, providing in-depth explanations and solutions.
 
 10. [Insights into Reaching the World Finals](https://drive.google.com/file/d/1HsNe4X8CZZ8FTkNPAA_tJaLcPjajRUwj/view) - Gain valuable insights and strategies from Tanuj Khattar on what it takes to reach the ACM-ICPC World Finals.
+11. [ The Ultimate Topic List(with Tutorials, Problems, and Templates ](https://blog.shahjalalshohag.com/topic-list/)
 
 And if you're hungry for more, explore the comprehensive compilation of insightful blogs ever published on Codeforces: [A Treasury of Codeforces Blogs](https://codeforces.com/blog/entry/91363).
 
