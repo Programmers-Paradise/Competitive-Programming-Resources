@@ -92,6 +92,7 @@ Certainly! Here are the short notes for each resource with the provided links:
 - **TopCoder Tutorials**: Tutorials covering various topics in competitive programming.
 - **GeeksforGeeks**: Website offering articles, tutorials, and interview preparation resources.
 - **[Codeforces Blog Collection](https://codeforces.com/blog/entry/91363)**: Compilation of useful blogs from the Codeforces platform.
+-  **[Codeforces Editorial Collections](https://codeforces.com/catalog)**: Compilation of useful editorials which will help programmers to improve skills from the Codeforces platform.
 
 ### **GitHub Repositories for Collaborative Learning**
 - **[Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)**: GitHub repository offering resources and community-driven collaboration.
